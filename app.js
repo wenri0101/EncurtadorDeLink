@@ -48,5 +48,5 @@ function copyToClipboard(){
 
     setTimeout(function (){
         popup.classList.remove('active')
-    },2000);
+    },1000);
 }
